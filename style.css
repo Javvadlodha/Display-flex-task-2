@@ -1,0 +1,90 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.first {
+    display: flex;
+    /* justify-content: center; */
+    margin: 40px;
+    gap: 30px;
+}
+
+.apj,
+.steve,
+.elon {
+    text-align: center;
+}
+
+.apj img {
+    border: 5px solid black;
+    width: 215px;
+    height: 215px;
+    border-radius: 50%;
+}
+
+.steve img {
+    border: 5px solid black;
+    width: 215px;
+    height: 215px;
+    border-radius: 50%;
+}
+
+.elon img {
+    border: 5px solid black;
+    width: 215px;
+    height: 215px;
+    border-radius: 50%;
+}
+
+h5.one {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 1000;
+    font-family: 'Franklin Gothic Medium';
+}
+
+h5.two {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 1000;
+    font-family: 'Franklin Gothic Medium';
+}
+
+h5.three {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 1000;
+    font-family: 'Franklin Gothic Medium';
+}
+
+h6.one {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+
+h6.two {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-weight: bolder
+}
+
+h6.three {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-weight: bolder
+}
+
+h2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+P {
+    text-align: justify;
+    font-style: italic;
+}
